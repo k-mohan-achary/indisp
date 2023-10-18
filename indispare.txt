@@ -1,0 +1,39 @@
+1. @media (min-height: 820px)
+    .home_headSection___XVGo {
+     height: 100vh;
+   }
+
+2. .category_iconLeftDisplay__OvkW7{
+      top: 4px;
+   }
+3. .category_iconRightDisplay__W52_g{
+    top: -6px;
+}
+4. .findBrands_viewText___alPO{
+   margin-left:-10%;
+}
+
+-------------- 320 px responsive ---------------------------
+trending categories
+5. @media (max-width: 460px){
+   .categoryComponent_card__djL9_ {
+    width: 160px; // 140px
+    height: 100%;
+   }
+}
+view all product - trending categories
+6. .categoryComponent_button__6CwFs {
+   width: 93%; 
+}
+
+best selling product 
+7. @media (max-width: 460px){
+   .categoryProduct_card__aJGkI {
+    max-width: 180px; // 155px
+    height: 100%;
+   }
+}
+https://indisparedev.s3.ap-south-1.amazonaws.com/product/285817/1.jpg {width:75%}
+
+after login, if i search the deivery adrs in select ur delivery pincode there not showing the pincode in select
+
